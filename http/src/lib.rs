@@ -1,2 +1,2 @@
-pub mod httprequests;
+pub mod httprequest;
 pub mod httpresponse;
